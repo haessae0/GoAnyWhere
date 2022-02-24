@@ -1,0 +1,10 @@
+com/haessae0/goanywhere/springboot/domain/posts/PostsRepositoryTest.java
+ com.haessae0.goanywhere.springboot.domain.posts.PostsRepositoryTest
+com/haessae0/goanywhere/springboot/web/HelloControllerTest.java
+ com.haessae0.goanywhere.springboot.web.HelloControllerTest
+com/haessae0/goanywhere/springboot/web/IndexControllerTest.java
+ com.haessae0.goanywhere.springboot.web.IndexControllerTest
+com/haessae0/goanywhere/springboot/web/dto/HelloResponseDtoTest.java
+ com.haessae0.goanywhere.springboot.web.dto.HelloResponseDtoTest
+com/haessae0/goanywhere/springboot/web/PostsApiControllerTest.java
+ com.haessae0.goanywhere.springboot.web.PostsApiControllerTest

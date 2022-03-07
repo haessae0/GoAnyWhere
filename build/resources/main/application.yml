@@ -28,3 +28,10 @@ spring:
 
   profiles:
     include: oauth
+
+  mvc:
+    static-path-pattern: /static/**
+
+  mustache:
+    prefix: classpath:/templates/
+    suffix: .mustache

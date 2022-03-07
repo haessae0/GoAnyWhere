@@ -10,8 +10,9 @@ com/haessae0/goanywhere/springboot/domain/posts/PostsRepository.java
  com.haessae0.goanywhere.springboot.domain.posts.PostsRepository
 com/haessae0/goanywhere/springboot/config/auth/LoginUserArgumentResolver.java
  com.haessae0.goanywhere.springboot.config.auth.LoginUserArgumentResolver
-com/haessae0/goanywhere/springboot/Application.java
- com.haessae0.goanywhere.springboot.Application
+com/haessae0/goanywhere/springboot/config/auth/dto/OAuthAttributes.java
+ com.haessae0.goanywhere.springboot.config.auth.dto.OAuthAttributes
+ com.haessae0.goanywhere.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/haessae0/goanywhere/springboot/domain/BaseTimeEntity.java
  com.haessae0.goanywhere.springboot.domain.BaseTimeEntity
 com/haessae0/goanywhere/springboot/domain/posts/Posts.java
@@ -48,6 +49,5 @@ com/haessae0/goanywhere/springboot/web/dto/HelloResponseDto.java
  com.haessae0.goanywhere.springboot.web.dto.HelloResponseDto
 com/haessae0/goanywhere/springboot/web/dto/PostsResponseDto.java
  com.haessae0.goanywhere.springboot.web.dto.PostsResponseDto
-com/haessae0/goanywhere/springboot/config/auth/dto/OAuthAttributes.java
- com.haessae0.goanywhere.springboot.config.auth.dto.OAuthAttributes
- com.haessae0.goanywhere.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/haessae0/goanywhere/Application.java
+ com.haessae0.goanywhere.Application

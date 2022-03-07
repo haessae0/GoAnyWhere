@@ -1,8 +1,7 @@
-package com.haessae0.goanywhere.springboot;
+package com.haessae0.goanywhere;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 //@EnableJpaAuditing
 @SpringBootApplication
